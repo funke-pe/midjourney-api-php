@@ -1,4 +1,4 @@
-# This is a fork just to have the origin code save. Nevertheless, we use the original code.
+# This is a fork just to have the origin code safe. Nevertheless, we use the original code.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/7081446/223246488-77debf08-5f0b-47da-b15b-a51b6038352f.png" width="128" height="128"/>
